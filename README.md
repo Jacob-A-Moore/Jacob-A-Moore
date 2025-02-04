@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacob-A-Moore
-- 👀 I’m interested in .NET Framework and Video Games
+- 👀 I’m interested in Data Science and Video Games
 - 🌱 I’m currently learning Entity Framework and WPF Forms
 - 💞️ I’m looking to collaborate on Python projects dealing with Data Science
 - 📫 How to reach me : My email is jakedawg99@gmail.com
